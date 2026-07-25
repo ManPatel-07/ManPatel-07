@@ -1,10 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:414868&height=200&section=header&text=Man%20Patel&fontSize=60&fontColor=c0caf5&fontAlignY=38&desc=Java%20%7C%20Spring%20Boot%20%7C%20Microservices%20Engineer&descAlignY=60&descColor=7aa2f7&animation=fadeIn" width="100%"/>
+<h1><code>man@amnex</code> : <code>~/profile</code></h1>
 
-<br/>
+<em>Associate Software Developer · Java · Spring Boot · Microservices</em>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+backend+systems;Microservices+%7C+REST+APIs+%7C+Spring+Boot;Clean+Architecture+%7C+Production-Ready+Code;Turning+complexity+into+clarity)](https://git.io/typing-svg)
+<br/><br/>
+
+<h3><code>$ cat contributions.log</code></h3>
+
+<img src="./graph.svg" width="880" alt="Contribution graph"/>
+
+<br/><br/>
+
+<h3><code>$ whoami --verbose</code></h3>
+
+<table>
+  <tr>
+    <td valign="top"><img src="./portrait.svg" width="360" alt="ASCII portrait"/></td>
+    <td valign="top"><img src="./sysinfo.svg" width="470" alt="System info panel"/></td>
+  </tr>
+</table>
 
 <br/>
 
@@ -12,13 +27,11 @@
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:patelman7720@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=c0caf5)](https://github.com/ManPatel-07)
 
-<img src="https://komarev.com/ghpvc/?username=ManPatel-07&label=Profile+Views&color=7aa2f7&style=flat-square" alt="Profile Views"/>
-
 </div>
 
 ---
 
-## ⚡ About Me
+## `$ cat about.md`
 
 ```java
 @Developer
@@ -50,60 +63,25 @@ public class ManPatel {
 
 ---
 
-## 🛠 Tech Stack
+## `$ ls skills/`
 
 <div align="center">
 
-**Languages & Frameworks**
-
-[![Skills](https://skillicons.dev/icons?i=java,spring,hibernate,angular,react,js,html,css,tailwind&theme=dark&perline=9)](https://skillicons.dev)
-
-**Databases & DevOps**
-
-[![Skills](https://skillicons.dev/icons?i=postgresql,mysql,git,maven,jenkins,linux,docker&theme=dark&perline=9)](https://skillicons.dev)
-
-**Tools & IDEs**
-
-[![Skills](https://skillicons.dev/icons?i=idea,vscode,postman,github&theme=dark&perline=9)](https://skillicons.dev)
-
-</div>
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=flat-square&logo=springboot&logoColor=6DB33F)
-![Spring Security](https://img.shields.io/badge/Spring_Security-0D1117?style=flat-square&logo=springsecurity&logoColor=6DB33F)
-![Hibernate](https://img.shields.io/badge/Hibernate-0D1117?style=flat-square&logo=hibernate&logoColor=59666C)
-![Microservices](https://img.shields.io/badge/Microservices-0D1117?style=flat-square&logo=buffer&logoColor=7aa2f7)
-![REST API](https://img.shields.io/badge/REST_API-0D1117?style=flat-square&logo=fastapi&logoColor=009688)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Maven](https://img.shields.io/badge/Maven-0D1117?style=flat-square&logo=apachemaven&logoColor=C71A36)
-![Jenkins](https://img.shields.io/badge/Jenkins-0D1117?style=flat-square&logo=jenkins&logoColor=D24939)
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ManPatel-07&show_icons=true&theme=tokyo-night&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5&rank_icon=github&count_private=true" height="180px"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManPatel-07&layout=compact&theme=tokyo-night&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c0caf5&langs_count=8" height="180px"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManPatel-07&theme=tokyo-night&hide_border=true&background=0D1117&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7&sideLabels=c0caf5&dates=565f89" width="70%"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
+## `$ ls projects/`
 
 <div align="center">
 
@@ -160,7 +138,7 @@ Immersive 3D parallax scrolling website with custom animations, layered depth ef
 
 ---
 
-## 💼 Experience
+## `$ cat experience.log`
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
@@ -184,19 +162,9 @@ Immersive 3D parallax scrolling website with custom animations, layered depth ef
 
 ---
 
-## 📈 Contribution Graph
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManPatel-07&bg_color=0D1117&color=7aa2f7&line=7aa2f7&point=ff9e64&area=true&hide_border=true&area_color=1a1b2760" width="95%"/>
-
-</div>
-
----
-
-## 📬 Contact
-
-<div align="center">
+## `$ contact --open-to-work`
 
 I'm open to backend roles, Java/Spring Boot opportunities, and microservices projects.
 
@@ -204,12 +172,8 @@ I'm open to backend roles, Java/Spring Boot opportunities, and microservices pro
 &nbsp;
 [![GitHub](https://img.shields.io/badge/@ManPatel--07-0D1117?style=for-the-badge&logo=github&logoColor=c0caf5)](https://github.com/ManPatel-07)
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,50:24283b,100:1a1b27&height=100&section=footer" width="100%"/>
+<sub><code>graph.svg</code> refreshes automatically every day via GitHub Actions · portrait &amp; panel rendered locally, no external badge services</sub>
 
 </div>

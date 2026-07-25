@@ -1,0 +1,7 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Local-only intermediate art (regenerate with tools/clean_photo.py)
+assets/photo-ready.png

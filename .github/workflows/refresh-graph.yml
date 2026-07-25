@@ -1,0 +1,35 @@
+name: Refresh contribution graph
+
+on:
+  schedule:
+    - cron: "0 5 * * *"   # once a day, early morning UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install daily dependencies
+        run: pip install -r tools/requirements-daily.txt
+
+      - name: Pull contribution data
+        env:
+          GH_USER: ${{ github.repository_owner }}
+        run: python tools/pull_contributions.py
+
+      - name: Render graph
+        run: python tools/render_graph.py
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "auto: refresh contribution graph [skip ci]"
+          file_pattern: "assets/contributions.json graph.svg"
