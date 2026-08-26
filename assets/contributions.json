@@ -1833,19 +1833,24 @@
     },
     {
       "date": "2026-08-25",
+      "level": 4,
+      "count": 1
+    },
+    {
+      "date": "2026-08-26",
       "level": 0,
       "count": 0
     }
   ],
   "stats": {
-    "total": 37,
+    "total": 38,
     "current_streak": 0,
-    "longest_streak": 30,
+    "longest_streak": 31,
     "busiest_weekday": "Mon",
     "by_weekday": {
       "Sun": 6,
       "Mon": 8,
-      "Tue": 4,
+      "Tue": 5,
       "Wed": 4,
       "Thu": 4,
       "Fri": 4,
