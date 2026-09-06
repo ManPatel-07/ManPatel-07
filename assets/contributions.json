@@ -2,41 +2,6 @@
   "user": "ManPatel-07",
   "days": [
     {
-      "date": "2025-08-31",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-09-01",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-09-02",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-09-03",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-09-04",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-09-05",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-09-06",
-      "level": 0,
-      "count": 0
-    },
-    {
       "date": "2025-09-07",
       "level": 0,
       "count": 0
@@ -1853,14 +1818,19 @@
     },
     {
       "date": "2026-09-05",
+      "level": 4,
+      "count": 1
+    },
+    {
+      "date": "2026-09-06",
       "level": 0,
       "count": 0
     }
   ],
   "stats": {
-    "total": 48,
+    "total": 49,
     "current_streak": 0,
-    "longest_streak": 41,
+    "longest_streak": 42,
     "busiest_weekday": "Mon",
     "by_weekday": {
       "Sun": 7,
@@ -1869,7 +1839,7 @@
       "Wed": 6,
       "Thu": 6,
       "Fri": 6,
-      "Sat": 8
+      "Sat": 9
     }
   }
 }
