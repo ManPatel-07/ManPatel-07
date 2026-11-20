@@ -1843,21 +1843,26 @@
     },
     {
       "date": "2026-11-19",
+      "level": 2,
+      "count": 1
+    },
+    {
+      "date": "2026-11-20",
       "level": 0,
       "count": 0
     }
   ],
   "stats": {
-    "total": 123,
+    "total": 124,
     "current_streak": 0,
-    "longest_streak": 116,
+    "longest_streak": 117,
     "busiest_weekday": "Mon",
     "by_weekday": {
       "Sun": 18,
       "Mon": 20,
       "Tue": 17,
       "Wed": 17,
-      "Thu": 16,
+      "Thu": 17,
       "Fri": 16,
       "Sat": 19
     }
