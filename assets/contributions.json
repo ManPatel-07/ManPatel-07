@@ -1838,20 +1838,25 @@
     },
     {
       "date": "2026-11-25",
+      "level": 2,
+      "count": 1
+    },
+    {
+      "date": "2026-11-26",
       "level": 0,
       "count": 0
     }
   ],
   "stats": {
-    "total": 129,
+    "total": 130,
     "current_streak": 0,
-    "longest_streak": 122,
+    "longest_streak": 123,
     "busiest_weekday": "Mon",
     "by_weekday": {
       "Sun": 19,
       "Mon": 21,
       "Tue": 18,
-      "Wed": 17,
+      "Wed": 18,
       "Thu": 17,
       "Fri": 17,
       "Sat": 20
